@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- 增强标题横幅 - 使用更动感的渐变色 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Building Intelligence. One Token at a Time&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=用模型理解世界，用代码重构现实&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Building%20Intelligence.%20One%20Token%20at%20a%20Time&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=用模型理解世界，用代码重构现实&descAlignY=55" />
   
   # 👋 Hello，here is Yifei Ren
   
@@ -10,12 +10,9 @@
 
   <!-- 动感社交媒体按钮 - 增加阴影和悬停效果 -->
   <p align="center">
-    <p align="center">
     <a href="https://github.com/LLMNO-1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="mailto:renyifei200301@163.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://www.xiaohongshu.com/user/profile/622c5ebf0000000010004d2e?xsec_token=YBRk2wo-S5zu-flky-0d4DHr8JEkOphHinCjjU4Wj8U1I=&xsec_source=app_share&xhsshare=CopyLink&appuid=622c5ebf0000000010004d2e&apptime=1743608294&share_id=fefb2644171c4940a89cf150d3705d21"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"/></a>
-</p>
-    
   </p>
 
 <!-- 动态访问计数器 - 增强效果 -->
@@ -114,7 +111,6 @@
   
   <!-- 添加动态贡献热图 -->
   <img src="https://github-profile-trophy.vercel.app/?username=LLMNO-1&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
-</div>
 
 <!-- 项目展示部分 - 统一标题样式并对齐图标 -->
 <h2 align="center">
