@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- 增强标题横幅 - 使用更动感的渐变色 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Building%Intelligence.One%Token%at%a%Time&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=用模型理解世界，用代码重构现实&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Building%Intelligence.One%Token%at%a%Time&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=white&desc=用模型理解世界，用代码重构现实&descAlignY=55" />
   
   # 👋 Hello，here is Yifei Ren
   
